@@ -3,9 +3,8 @@
 ![Facebook Page Cover Photo](https://github.com/learnwithfair/learnwithfair/assets/103452668/19012ffa-e13b-4c42-ad0b-5ef96ad70c1f)
 
 <p>
-
-<h6>This is `MD RAHATUL RABBI`,</h6>I’m a professional web designer & developer with 7 years of experience working with international clients & agencies. I have Customized/Created over 300+ websites for serving happy clients. I have expertise in a range of technologies including HTML, CSS, Bootstrap, JQuery, Eye-Catching UI/UX Design, WordPress, Woo-Commerce, E-Commerce websites, JavaScript, React JS, PHP, Laravel, and MySQL.
-Also, Competitive Programming Languages C, C++, JAVA, JAVA Swing, Python, Android Development, Basic Computer, and Photoshop. 
+<h4>This is `MD RAHATUL RABBI`,</h4>I’m a professional web designer & developer with 7 years of experience working with international clients & agencies. I have Customized/Created over 300+ websites for serving happy clients. I have expertise in a range of technologies including HTML-5, CSS-3, Bootstrap, JQuery, Eye-Catching UI/UX Design, WordPress, Woo-Commerce, E-Commerce websites, JavaScript, React JS, MERN, PHP, Laravel, MongoDB, and MySQL.
+Also, Competitive Programming Languages C, C++, JAVA, JAVA Swing, Python, React Native, Android Development, Basic Computer, Canva, and Photoshop. 
 I believe I will be excellent for your projects and it may be a good relation with you.
 On-time, I serve my expertise for your business effective worldwide Internet exposure at low prices, and 24/7 support is provided to my clients.
 </p>

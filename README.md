@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub, Your Satisfaction is My First Priority!</h1>
 <h3 align="center">Professional Full Stack Web Developer</h3>
 
-![cover](https://github.com/learnwithfair/learnwithfair/assets/103452668/5ec52651-828d-4335-ae9d-f75e214c3e22)
+![Untitled design](https://github.com/learnwithfair/learnwithfair/assets/103452668/b51d21ed-a1a8-4f40-8e58-7c719302635d)
 ![description](https://github.com/learnwithfair/learnwithfair/assets/103452668/0c48e11a-45f6-48d4-99eb-2935b99f71d3)
 
 

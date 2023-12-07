@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My GitHub, Your Satisfaction is My First Priority!</h1>
-<h3 align="center">Professional Full Stack Web Developer</h3>
+<h3 align="center"><b>"Professional Full Stack Web Developer"</b></h3>
 
 ![Untitled design](https://github.com/learnwithfair/learnwithfair/assets/103452668/b51d21ed-a1a8-4f40-8e58-7c719302635d)
 
@@ -13,15 +13,19 @@
 - 🔭 I’m currently working on Android Development 
 - 🌱 I’m currently learning React Native 
 - 💬 Ask me about HTML, CSS, JavaScript, MERN, PHP, Laravel.
-- 📫 How to reach me: https://www.facebook.com/mdrahatulrabbi/ 
+- 📫 How to reach me: **learnwithfair@gmail.com**
+-  Facebook Page: **facebook.com/learnwithfair** 
 
 ## Summary
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithfair)](https://github.com/anuraghazra/github-readme-stats)
-             <span align="right">          &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</span>        ![GitHub streak stats](https://streak-stats.demolab.com/?user=learnwithfair)  
+             <span align="right">          &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</span>     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnwithfair&show_icons=true&count_private=true) 
+
+ ## Streak Stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=learnwithfair)   <span align="right">          &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</span>   <p align="left"> <img src="https://komarev.com/ghpvc/?username=learnwithfair&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithfair" /> </p>
  
-<span align="right"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnwithfair&show_icons=true&count_private=true) </span>
+
 ## Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/learnwithfair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdrahatulrabbi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/learnwithfair//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://www.twiter.com/learnwithfair/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@learnwithfair)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/learnwithfair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdrahatulrabbi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/learnwithfair/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twiter.com/learnwithfair/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@learnwithfair)  
 
 
 

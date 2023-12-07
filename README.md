@@ -25,8 +25,12 @@
 - 📫 How to reach me: **learnwithfair@gmail.com** Or [Facebook](https://www.facebook.com/mdrahatulrabbi/)
 
 ## Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=learnwithfair&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=learnwithfair&theme=github) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnwithfair&show_icons=true&count_private=true) 
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithfair)](https://github.com/anuraghazra/github-readme-stats)
-             <span align="right">          &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</span>     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnwithfair&show_icons=true&count_private=true) 
+            
 
  ## Streak Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=learnwithfair)   <span align="right">  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<img src="https://komarev.com/ghpvc/?username=learnwithfair&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithfair" /> </span> 

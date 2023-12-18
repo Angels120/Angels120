@@ -1,10 +1,7 @@
 <h1 align="center">Welcome to My GitHub, Your Satisfaction is My First Priority!</h1>
 
 <h2 align="center">
-
- ```diff
-"Professional Full Stack Web Developer"
-```
+$$\color{red}{[Professional \space Full \space Stack \space Web \space Developer]}$$
 </h2>
 
 

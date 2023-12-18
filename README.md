@@ -1,14 +1,12 @@
 <h1 align="center">Welcome to My GitHub, Your Satisfaction is My First Priority!</h1>
 
-<h2 align="center">
-$$\color{red}{[Professional \space Full \space Stack \space Web \space Developer]}$$
-</h2>
 
-
-![Untitled design](https://github.com/learnwithfair/learnwithfair/assets/103452668/b51d21ed-a1a8-4f40-8e58-7c719302635d)
-
-
-![description](https://github.com/learnwithfair/learnwithfair/assets/103452668/93a89a48-3403-44ca-af1f-cd7a33855e1f)
+|   | 
+|:---:|
+|<h2 align="center"> $$\color{red}{[Professional \space Full \space Stack \space Web \space Developer]}$$ </h2>|
+|![Untitled design](https://github.com/learnwithfair/learnwithfair/assets/103452668/b51d21ed-a1a8-4f40-8e58-7c719302635d)|
+| |
+|![description](https://github.com/learnwithfair/learnwithfair/assets/103452668/93a89a48-3403-44ca-af1f-cd7a33855e1f)|
 
 
 

@@ -1,12 +1,10 @@
 <h1 align="center">Welcome to My GitHub, Your Satisfaction is My First Priority!</h1>
-
+<h2 align="center">I am a Full Stack Developer</h2>
 
 |   | 
 |:---:|
-|<h2 align="center"> $$\color{red}{[Professional \space Full \space Stack \space Web \space Developer]}$$ </h2>|
 |[![cover](https://github.com/learnwithfair/learnwithfair/assets/103452668/b51d21ed-a1a8-4f40-8e58-7c719302635d)](https://www.youtube.com/@learnwithfair)|
 | |
-|![description](https://github.com/learnwithfair/learnwithfair/assets/103452668/93a89a48-3403-44ca-af1f-cd7a33855e1f)|
 
 
 <h2 align="left">Languages and Tools</h2>
@@ -16,18 +14,23 @@
 - 🔭 I’m currently working on Android Development 
 - 🌱 I’m currently learning React Native 
 - 💬 Ask me about HTML, CSS, JavaScript, MERN, PHP, Laravel.
-- 📫 How to reach me: **learnwithfair@gmail.com** Or [Facebook](https://www.facebook.com/mdrahatulrabbi/)
+- 📫 How to reach me: **angeldev0426@gmail.com**
 
 ## Summary
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=learnwithfair&theme=github) <span align="right">&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=learnwithfair&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithfair" /> 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=learnwithfair&theme=github) <span align="right">  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnwithfair&show_icons=true&count_private=true) </span>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithfair)](https://github.com/anuraghazra/github-readme-stats)<span align="right">  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=learnwithfair) </span> 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angels120&theme=github) <span align="right">  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angels120&show_icons=true&count_private=true) </span>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angels120)](https://github.com/anuraghazra/github-readme-stats)<span align="right">  &nbsp;&nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angels120&layout=compact&hide=html" />&nbsp;&nbsp; &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=Angels120) </span> 
  
+ ## 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Angels120&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/learnwithfair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/learnwithfair/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/learnwithfair/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twiter.com/learnwithfair/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@learnwithfair)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Angels120)
 
 
 

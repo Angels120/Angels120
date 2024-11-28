@@ -1,9 +1,6 @@
 <h1 align="center">Welcome to My GitHub, Your Satisfaction is My First Priority!</h1>
 <h2 align="center">I am a Full Stack Developer</h2>
 
-|   | 
-|:---:|
-| |
 
 
 <h2 align="left">Languages and Tools</h2>

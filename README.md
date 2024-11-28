@@ -3,7 +3,6 @@
 
 |   | 
 |:---:|
-|[![cover](https://github.com/learnwithfair/learnwithfair/assets/103452668/b51d21ed-a1a8-4f40-8e58-7c719302635d)](https://www.youtube.com/@learnwithfair)|
 | |
 
 

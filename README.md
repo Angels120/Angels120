@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My GitHub, Your Satisfaction is My First Priority!</h1>
-<h2 align="center">I am a Full Stack Developer</h2>
+<h2 align="center">I am a Full Stack Blockchain Developer</h2>
 
 
 
@@ -9,8 +9,8 @@
 ## Learning
 - 🔭 I’m currently working on Android Development 
 - 🌱 I’m currently learning React Native 
-- 💬 Ask me about HTML, CSS, JavaScript, MERN, PHP, Laravel.
-- 📫 How to reach me: **angeldev0426@gmail.com**
+- 💬 Ask me about Blockchain on BSC ETH TON and Sol, MERN, Next, Python, PHP, Laravel.
+- 📫 How to reach me: **angel.business1116@gmail.com**
 
 ## Summary
 
